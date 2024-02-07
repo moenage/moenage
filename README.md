@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭I'm currently working on building my own custom c++ game engine and joining some game jams!<br><br>🌱I'm currently learning more about game dev math and how networking works in games!<br><br>⚡I'm deeply interested in emergent gameplay and the different ways to implement it!
+🔭I'm currently working on building my own custom c++ game engine and joining some game jams utilizing Unity, Godot, and eventually Unreal!<br><br>🌱I'm currently learning more about game dev math and how networking works in games!<br><br>⚡I'm deeply interested in emergent gameplay and the different ways to implement it!
 
 
 ## 🌐 Websites:
